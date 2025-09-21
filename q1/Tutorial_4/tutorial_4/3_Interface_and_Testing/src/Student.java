@@ -1,6 +1,7 @@
-public class Student extends Person {
+public class Student extends Person implements HasToStudy {
 
     private boolean livesInDelft;
+    private int studySessions;
 
     /**
      * Creates a student.
@@ -12,6 +13,7 @@ public class Student extends Person {
     public Student(String name, double height, boolean livesInDelft) {
         super(name, height);
         this.livesInDelft = livesInDelft;
+        studySessions = 0;
     }
 
     /**
@@ -30,6 +32,14 @@ public class Student extends Person {
      */
     public void setLivesInDelft(boolean livesInDelft) {
         this.livesInDelft = livesInDelft;
+    }
+
+    public void study() {
+        studySessions++;
+    }
+
+    public boolean willPassExam() {
+        return studySessions >= 5;
     }
 
     public String toString() {
