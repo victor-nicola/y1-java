@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/q1/Tutorial_4/tutorial_4/1_Basic_Inheritance/1_Basic_Inheritance.iml" filepath="$PROJECT_DIR$/q1/Tutorial_4/tutorial_4/1_Basic_Inheritance/1_Basic_Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/q1/Tutorial_4/tutorial_4/2_Distribution_of_Logic/2_Distribution_of_Logic.iml" filepath="$PROJECT_DIR$/q1/Tutorial_4/tutorial_4/2_Distribution_of_Logic/2_Distribution_of_Logic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/q1/Tutorial_4/tutorial_4/3_Interface_and_Testing/3_Interface_and_Testing.iml" filepath="$PROJECT_DIR$/q1/Tutorial_4/tutorial_4/3_Interface_and_Testing/3_Interface_and_Testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/q1/assignement4/assignement4.iml" filepath="$PROJECT_DIR$/q1/assignement4/assignement4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/y1-java.iml" filepath="$PROJECT_DIR$/.idea/y1-java.iml" />
+    </modules>
+  </component>
+</project>

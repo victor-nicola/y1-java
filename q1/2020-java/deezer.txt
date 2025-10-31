@@ -1,0 +1,60 @@
+ALBUMS
+ALBUM U2; Songs of Innocence; 2014
+ARTISTS Larry Mullen Jr.; The Edge; Bono; Adam Clayton
+TRACK 1; The Miracle; 4:15
+TRACK 2; Every Breaking Wave; 4:12
+TRACK 3; California; 4:00
+TRACK 4; Song for Someone; 3:47
+ALBUM Billie Eilish; When We All Fall Asleep Where Do We Go?; 2018
+ARTISTS Billie Eilish; Finneas O'Connell
+TRACK 1; Bad Guy; 3:14
+TRACK 2; When the Party's Over; 3:16
+ALBUM The Weeknd; After Hours; 2020
+ARTISTS The Weeknd
+TRACK 1; Blinding Lights; 3:20
+TRACK 2; Save Your Tears; 3:36
+TRACK 3; In Your Eyes; 3:58
+ALBUM Arctic Monkeys; AM; 2013
+ARTISTS Alex Turner; Jamie Cook; Nick O'Malley; Matt Helders
+TRACK 1; Do I Wanna Know?; 4:32
+TRACK 2; R U Mine?; 3:20
+TRACK 3; Arabella; 3:27
+TRACK 4; Why'd You Only Call Me When You're High?; 2:41
+ALBUM Kendrick Lamar; DAMN.; 2017
+ARTISTS Kendrick Lamar
+TRACK 1; DNA.; 3:05
+TRACK 2; HUMBLE.; 2:57
+TRACK 3; LOVE.; 3:33
+ALBUM Daft Punk; Random Access Memories; 2013
+ARTISTS Thomas Bangalter; Guy-Manuel de Homem-Christo
+TRACK 1; Give Life Back to Music; 4:35
+TRACK 2; Get Lucky; 6:09
+TRACK 3; Instant Crush; 5:37
+TRACK 4; Contact; 6:21
+ALBUM Taylor Swift; 1989; 2014
+ARTISTS Taylor Swift; Jack Antonoff; Max Martin; Shellback
+TRACK 1; Blank Space; 3:51
+TRACK 2; Style; 3:51
+TRACK 3; Out of the Woods; 3:55
+TRACK 4; Shake It Off; 3:39
+ALBUM Radiohead; OK Computer; 1997
+ARTISTS Thom Yorke; Jonny Greenwood; Ed O'Brien; Colin Greenwood; Phil Selway
+TRACK 1; Paranoid Android; 6:23
+TRACK 2; Karma Police; 4:21
+TRACK 3; No Surprises; 3:48
+ADS
+AD ING Bank; 0:20; 0.05 euros
+AD Bol.com; 0:15; 0.10 euros
+AD Albert Heijn; 0:30; 0.20 euros
+AD Specsavers; 0:15; 0.05 euros
+AD Kruidvat; 0:10; 0.07 euros
+AD Coca-Cola; 0:30; 0.25 euros
+AD Red Bull; 0:20; 0.18 euros
+AD Samsung; 0:45; 0.30 euros
+AD Apple; 0:30; 0.35 euros
+AD Nike; 0:25; 0.22 euros
+AD Adidas; 0:20; 0.20 euros
+AD Spotify; 0:15; 0.08 euros
+AD McDonald's; 0:20; 0.15 euros
+AD Heineken; 0:25; 0.12 euros
+AD Netflix; 0:30; 0.28 euros
